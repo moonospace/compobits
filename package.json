@@ -27,7 +27,7 @@
     "typescript": "^5.7.2",
     "ultracite": "6.3.7",
     "vite": "^7.1.7",
-    "vite-tsconfig-paths": "^5.1.4",
+    "vite-tsconfig-paths": "^6.0.1",
     "web-vitals": "^5.1.0"
   }
 }
